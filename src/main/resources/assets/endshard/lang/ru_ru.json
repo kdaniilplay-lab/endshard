@@ -1,0 +1,14 @@
+{
+  "block.endshard.end_shard_ore": "Руда обломка Края",
+  "item.endshard.end_shard": "Обломок Края",
+  "item.endshard.end_shard_ingot": "Слиток из обломков Края",
+  "item.endshard.end_shard_sword": "Меч из обломков Края",
+  "item.endshard.end_shard_pickaxe": "Кирка из обломков Края",
+  "item.endshard.end_shard_axe": "Топор из обломков Края",
+  "item.endshard.end_shard_shovel": "Лопата из обломков Края",
+  "item.endshard.end_shard_hoe": "Мотыга из обломков Края",
+  "item.endshard.end_shard_helmet": "Шлем из обломков Края",
+  "item.endshard.end_shard_chestplate": "Нагрудник из обломков Края",
+  "item.endshard.end_shard_leggings": "Поножи из обломков Края",
+  "item.endshard.end_shard_boots": "Ботинки из обломков Края"
+}

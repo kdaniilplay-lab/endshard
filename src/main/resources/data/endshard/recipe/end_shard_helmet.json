@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "endshard:end_shard_ingot"
+  },
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "result": {
+    "id": "endshard:end_shard_helmet"
+  }
+}

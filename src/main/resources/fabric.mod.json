@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "endshard",
+  "version": "${version}",
+  "name": "End Shard",
+  "description": "Руда обломка Края, слитки, а также лучшие инструменты и броня.",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.endshard.EndShardMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
